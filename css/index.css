@@ -1,0 +1,28 @@
+main {
+  height: 90vh;
+  width: calc(97vw - 1.5vh);
+  border-radius: 10px;
+  background-color: #1d192c;
+  padding: 1%;
+  margin: 1vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.huge-centered {
+  font-size: 5vw;
+  width: 70%;
+  text-align: center;
+  margin-top: 8vw;
+  margin-bottom: 0;
+}
+
+.sub-text {
+  font-size: 2.4vw;
+}
+
+.faq-text {
+  width: 50%;
+  text-align: center;
+}
